@@ -28,7 +28,7 @@ export default function About() {
                         Currently, I live on the South Coast of Durban, South Africa, in a rather remote town. Short term goals are to move back to Cape Town where fiber is widely available, as well as being close to work opportunities.
                         {<br />}
                         {<br />}
-                        In the long term, I am opent to relocation outside of South Africa and would welcome the opportunity to immigrate.
+                        In the long term, I am open to relocation outside of South Africa and would welcome the opportunity to immigrate.
                     </p>
                     {<br />}                   
                     <h3 style={{textDecoration:'underline', textAlign:'right'}}>Outside of Work Interests</h3>
