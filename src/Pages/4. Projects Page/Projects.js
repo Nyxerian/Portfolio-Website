@@ -20,6 +20,7 @@ export default function Projects() {
               <br /><br />
                 <div class="summary">
                   Create a simple To-Do App. Add a little flair.
+                  Currently incomplete.
                 </div>
                 <a href="#" class="btn"> Open Project </a>
                 <div class="project-info">

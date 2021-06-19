@@ -88,16 +88,16 @@ export default function CV() {
                           
 
         <section class="cv-section">
-        <h2 class="cv-section__title">{<BiDetail />} Notable Extras</h2>
+        <h2 class="cv-section__title" style={{textAlign:'left'}}>{<BiDetail />} Notable Extras</h2>
             <div class="cv-section__wrapper">
-            <h2 class="cv-sidebar-section__title">Skills</h2>
+            <h2 style={{textAlign:'left'}}>Skills</h2>
             <p class="cv-sidebar-section__description">HTML, CSS, JavaScript, jQuery, Reactstrap, SCSS, Git.</p>
             </div>
         </section>
         
         <section class="cv-section">
         <div class="cv-section__wrapper">
-          <h2 class="cv-sidebar-section__title">Languages</h2>
+          <h2 style={{textAlign:'left'}}>Languages</h2>
           <p class="cv-sidebar-section__description">English - Native Level, Afrikaans - Conversational Level, French - A2 level, Swedish - Basic Reading only.</p>            
         </div>
         </section>
