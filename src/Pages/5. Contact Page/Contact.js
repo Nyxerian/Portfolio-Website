@@ -13,7 +13,7 @@ export default function Contact() {
             <NavBar />
             <div class='container'>
                 <div class='flex-item'>
-                    <h3 className='ContactGlow'>Contact Me!</h3>
+                    <h3 className='ContactGlow'>Contact Me:</h3>
                     <p class="ContactDetails">
                         Durban, South Africa (+2 GMT) <br />
                         <p> Contact Number: (+27) 078 871 4075</p>
