@@ -8,6 +8,7 @@ import CV from './Pages/3. CV Page/CV'
 import Projects from './Pages/4. Projects Page/Projects'
 import Contact from './Pages/5. Contact Page/Contact';
 import FeedbackForm from './Pages/Feedback/FeedbackForm'
+import SuccessMsg from './Components/Sucess Message/SuccessMsg'
 
 
 function App() {
@@ -21,7 +22,8 @@ function App() {
         <Route path="/CV" exact component={CV} />
         <Route path="/Projects" exact component={Projects} />
         <Route path="/Contact" exact component={Contact} />
-        <Route path="/FeedbackForm" exact component={FeedbackForm} />        
+        <Route path="/FeedbackForm" exact component={FeedbackForm} />
+        <Route path="/SuccessMsg" exact component={SuccessMsg} />        
       </Switch> 
     </Router>
   );
