@@ -14,6 +14,7 @@
     margin-left: 10px;
     display: flex;
     flex-direction: row;
+    color: black;
   }
   
   .Profile-Container {
@@ -31,6 +32,7 @@
     font-size: 190px;
     font-family:'Dragon';
     letter-spacing: 1px;
+    color: black;
     
     animation: LightGlow 1.5s ease-in-out infinite alternate;
     transition: all 0.5s;

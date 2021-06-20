@@ -11,6 +11,7 @@ export default function NavBar() {
         <Link to="/CV" className='navbar__item'>CV</Link>
         <Link to="/Projects" className='navbar__item'>Projects</Link>     
         <Link to="/Contact" className='navbar__item'>Contact</Link>
+        <Link to="/FeedbackForm" className='navbar__item'>Feedback</Link>
     </header>
 );
     

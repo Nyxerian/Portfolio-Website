@@ -10,6 +10,7 @@
     margin-left: 10px;
     display: flex;
     flex-direction: row;
+    color: #000;
   }
   
   .flex-item {
