@@ -17,7 +17,7 @@ function FeedbackForm() {
 		   <form 
             method="post"
             action="/" 
-            data-netlify="true"
+            netlify
             name="feedbackForm"
             Content-Type="application/x-www-form-urlencoded"
             >
