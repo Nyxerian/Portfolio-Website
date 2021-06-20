@@ -15,8 +15,7 @@ function FeedbackForm() {
                     <p id="success">Your message was sent successfully. Thank you!</p>
 
 		   <form 
-            method="post"
-            action="/" 
+            method="post" 
             netlify
             name="feedbackForm"
             Content-Type="application/x-www-form-urlencoded"
