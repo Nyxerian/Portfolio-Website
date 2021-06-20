@@ -1,5 +1,6 @@
 import React from 'react'
 import NavBar from "../../Components/Navbar/NavBar"
+
 import './FeedbackForm.css'
 
 function FeedbackForm() {
@@ -18,7 +19,7 @@ function FeedbackForm() {
            name="feedbackForm"
             method="POST" 
             data-netlify="true" 
-			action="../../Components/Success Message/SuccessMsg"
+			action="/SuccessMsg"
             >
             <input type="hidden" name="form-name" value="feedbackForm" />
 			<div>
@@ -40,7 +41,7 @@ function FeedbackForm() {
 		      </label>  
 			</div>
 			<div>		           
-		      <button name="submit" type="submit" id="submit" >SEND</button> 
+		      <button name="submit" type="submit" id="submit">SEND</button> 
 			</div>
 		   </form>
 
