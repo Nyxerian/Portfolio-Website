@@ -215,3 +215,13 @@ h2 {
   color: #3D3D3D;
   text-transform: uppercase;
 }
+
+ /* Responsive layout - makes a one column-layout instead of two-column layout */
+ @media (max-width: 800px) {
+  .containerFlex {
+    flex-direction: column;
+    align-content: center;
+    margin-left: 6.5%;
+    padding-bottom: 5%;
+  }
+}

@@ -14,15 +14,14 @@
     margin-left: 10px;
     display: flex;
     flex-direction: row;
-    gap: 15px;
   }
   
-  .flex-item-left {
+  .Profile-Container {
     flex: 50%;
   }
-  
-  .flex-item-right {
-    flex: 50%;
+
+  .Intro-Container {
+    flex:50%;
   }
 
   /* h3 style and effects */
@@ -31,7 +30,7 @@
     text-align: center;
     font-size: 190px;
     font-family:'Dragon';
-    letter-spacing: 15px;
+    letter-spacing: 1px;
     
     animation: LightGlow 1.5s ease-in-out infinite alternate;
     transition: all 0.5s;
@@ -55,4 +54,11 @@
     .flex-container {
       flex-direction: column;
     }
-  }
+    .Profile-Container {
+      display: none!important;
+    }
+    .Intro-Container {
+      margin-left: 9%;
+    }
+
+    }

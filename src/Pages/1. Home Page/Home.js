@@ -12,10 +12,10 @@ export default function Home() {
             <h3 className='LightGlow'>Danielle Da Silva</h3>
             <br />
             <div class='flex-container'>
-                <div class='flex-item-left'>
+                <div class='Profile-Container'>
                     <ProfileSplash />
                 </div>
-                <div class='blurb-Column'>
+                <div class='Intro-Container'>
                     <Intro />
                 </div>
             </div>

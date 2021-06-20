@@ -6,7 +6,7 @@ export default function ProfileSplash() {
     const imgstyle = {
         width: 670,
         height: 550,
-        marginLeft: 60,
+        marginLeft: '10%'
     }
         
     
