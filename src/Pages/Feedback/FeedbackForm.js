@@ -14,18 +14,24 @@ function FeedbackForm() {
                     <p id="failure">Oopsie...message not sent.</p>  
                     <p id="success">Your message was sent successfully. Thank you!</p>
 
-		   <form method="post" action="/" data-netlify="true"
-           name="feedbackForm">
+		   <form 
+            method="post"
+            action="/" 
+            data-netlify="true"
+            name="feedbackForm"
+            Content-Type="application/x-www-form-urlencoded"
+            >
+            
 			<div>
 		      <label for="name">
 		      	<span class="required">Name: *</span> 
-		      	<input type="text" placeholder="Your Name" required="required" tabindex="1" autofocus="autofocus" />
+		      	<input type="text" placeholder="Your Name" required="required" tabindex="1" autofocus="autofocus" name="name" />
 		      </label> 
 			</div>
 			<div>
 		      <label for="email">
 		      	<span class="required">Email: *</span>
-		      	<input type="email" placeholder="Your Email" tabindex="2" required="required" />
+		      	<input type="email" placeholder="Your Email" tabindex="2" required="required" name="email" />
 		      </label>  
 			</div>
 			<div>		          
