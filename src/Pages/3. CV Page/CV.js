@@ -36,6 +36,9 @@ export default function CV() {
                             <div class="cv-section__wrapper">
                                 <p class="cv-section__description">
                                     I am 34 years old and originally from Cape Town, South Africa. My previous career was in Education, both in teaching children, teens and adults English and in admin and training for for adults in business and basic computer usage. 
+                                    {<br />}{<br />}
+                                    I have always dabbled in development and app design but actively began pursuing it toward the end of 2019. I am now looking for a company that will assist in my growth and constant learning as a developer.
+
                                 </p>
                             </div>
                     </section>
