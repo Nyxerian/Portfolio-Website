@@ -19,13 +19,13 @@ function FeedbackForm() {
 			<div>
 		      <label for="name">
 		      	<span class="required">Name: *</span> 
-		      	<input type="text" id="name" name="name" value="" placeholder="Your Name" required="required" tabindex="1" autofocus="autofocus" />
+		      	<input type="text" placeholder="Your Name" required="required" tabindex="1" autofocus="autofocus" />
 		      </label> 
 			</div>
 			<div>
 		      <label for="email">
 		      	<span class="required">Email: *</span>
-		      	<input type="email" id="email" name="email" value="" placeholder="Your Email" tabindex="2" required="required" />
+		      	<input type="email" placeholder="Your Email" tabindex="2" required="required" />
 		      </label>  
 			</div>
 			<div>		          
