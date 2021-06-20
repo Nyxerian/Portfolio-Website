@@ -18,6 +18,7 @@ function FeedbackForm() {
            name="feedbackForm"
             method="POST" 
             data-netlify="true" 
+			action="../../Components/Success Message/SuccessMsg"
             >
             <input type="hidden" name="form-name" value="feedbackForm" />
 			<div>
