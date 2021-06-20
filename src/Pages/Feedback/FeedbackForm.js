@@ -15,12 +15,11 @@ function FeedbackForm() {
                     <p id="success">Your message was sent successfully. Thank you!</p>
 
 		   <form 
-            method="post" 
-            netlify
-            name="feedbackForm"
-            Content-Type="application/x-www-form-urlencoded"
+           name="feedbackForm"
+            method="POST" 
+            data-netlify="true" 
             >
-            
+            <input type="hidden" name="form-name" value="feedbackForm" />
 			<div>
 		      <label for="name">
 		      	<span class="required">Name: *</span> 
