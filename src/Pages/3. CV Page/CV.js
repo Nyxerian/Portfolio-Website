@@ -94,7 +94,7 @@ export default function CV() {
         <h2 class="cv-section__title" style={{textAlign:'left'}}>{<BiDetail />} Notable Extras</h2>
             <div class="cv-section__wrapper">
             <h2 style={{textAlign:'left'}}>Skills</h2>
-            <p class="cv-sidebar-section__description">HTML, CSS, JavaScript, jQuery, Reactstrap, SCSS, Git.</p>
+            <p class="cv-sidebar-section__description">Reactjs, HTML, CSS, JavaScript, jQuery, Reactstrap, SCSS, Git.</p>
             </div>
         </section>
         
@@ -102,6 +102,13 @@ export default function CV() {
         <div class="cv-section__wrapper">
           <h2 style={{textAlign:'left'}}>Languages</h2>
           <p class="cv-sidebar-section__description">English - Native Level, Afrikaans - Conversational Level, French - A2 level, Swedish - Basic Reading only.</p>            
+        </div>
+        </section>
+
+        <section class="cv-section">
+        <div class="cv-section__wrapper">
+          <h2 style={{textAlign:'left'}}>Salary Expectations</h2>
+          <p class="cv-sidebar-section__description">Minimum amounts: ZAR 20,000 | US$ 1,400 | £ 1,050</p>            
         </div>
         </section>
 
