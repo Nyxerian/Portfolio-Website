@@ -9,7 +9,7 @@ function FeedbackForm() {
             <NavBar />
             <div id="contact-form" >
                 <div>
-                    <h1>I have and 'Always Learning' mindset</h1> 
+                    <h1>I have an 'Always Learning' mindset</h1> 
                     <h4>Any constructive feedback on my site or helpful advice would be appreciated</h4> 
                 </div>
                     <p id="failure">Oopsie...message not sent.</p>  
@@ -36,7 +36,7 @@ function FeedbackForm() {
 			</div>
 			<div>		          
 		      <label for="message">
-		      	<span class="required">Message: *</span> 
+		      	<span class="required">Message: *</span>
 		      	<textarea id="message" name="message" placeholder="Please write your message here." tabindex="5" required="required"></textarea> 
 		      </label>  
 			</div>

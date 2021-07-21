@@ -64,8 +64,9 @@ html{
     background-color: #E5E6E7; 
  }  
  #contact-form textarea {
+    margin-top: 10px;
     width:100%;
-    height: 150px;
+    height: 160px;
  }
  #contact-form button[type="submit"] {
     cursor:pointer;
