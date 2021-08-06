@@ -1,7 +1,7 @@
 import NavBar from "../../Components/Navbar/NavBar";
 import "./Projects.css";
 import { FaReact } from 'react-icons/fa'
-import { SiHtml5, SiCss3, SiJavascript, SiJquery } from 'react-icons/si'
+import { SiHtml5, SiCss3, SiJavascript, SiJquery, SiJava, SiMysql } from 'react-icons/si'
 
 export default function Projects() {
   return (
@@ -69,7 +69,38 @@ export default function Projects() {
                   </div>
                 </div>
               </div>
-            </div>  
+            </div>
+
+            <div class="card-container">
+              <div class="card-top Toyshop">
+                <span class="project-type">Toyshop Database</span>
+                <div class="blur"></div>
+              </div>
+              <div class="progress Toyshop">
+                <span> 100%</span>
+              </div>
+              <div class="content">
+              <br /><br />
+                <div class="summary">
+                Created a MySQL Database and programme to access and edit it.
+                </div>
+                <a href="https://github.com/Nyxerian/Java-MySQL_Toyshop_Program" class="btn"> Open Project </a>
+                <div class="project-info">
+                  <div class="info">
+                    <span>{<SiJava />}</span>
+                    <span>Java</span>
+                  </div>
+                  <div class="info">
+                    <span>{<SiMysql />}</span>
+                    <span>MySQL</span>
+                  </div>
+                </div>
+              </div>
+            </div> 
+
+
+
+
 
           </div>
 
