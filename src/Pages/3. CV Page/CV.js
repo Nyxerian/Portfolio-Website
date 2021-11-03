@@ -46,8 +46,10 @@ export default function CV() {
                             <h2 class="cv-section__title">{<GiBrain />} Experience</h2>
                             <div class="cv-section__wrapper">
                                 <div class="cv-section__experience">
+                                    <p class="cv-section__role">RunningHill Software Development - Intern</p>
+                                    <p class="cv-section__period">September 2021 – November 2021</p>
                                     <p class="cv-section__role">New Era Brand Management – Lead Front-end Developer</p>
-                                    <p class="cv-section__period">February 2021 – Present</p>
+                                    <p class="cv-section__period">February 2021 – August 2021</p>
                                     <p class="cv-section__description">Front-end and UI development and deployment.</p>
                                     <p class="cv-section__role">Freelance – Front-end Developer</p>
                                     <p class="cv-section__period">July 2020 – February 2021</p>
