@@ -17,7 +17,7 @@ export default function About() {
                     <br />
                     <h3 style={{textDecoration:'underline'}}>Career Goals</h3>
                     <p>
-                        I currently work mostly with HTML, CSS and JavaScript, though in any free time, I learn as much as I can about React.js and how I can improve. I love to fiddle around and see what works and what doesn't.
+                        I currently work mostly with ReactJS and Angular though I am well versed in HTML, CSS/SCSS and JavaScript. I learn as much as I can about ReactJS and how I can improve. I love to fiddle around and see what works and what doesn't.
                         {<br />}
                         {<br />}
                         In the future, I would like to continue learning React.js and also branch into React Native or another mobile app development tool. Other languages that I am interested in learning are: Python, C#, and C++ for use in game development.
@@ -25,7 +25,7 @@ export default function About() {
                                        
                     <h3 style={{textDecoration:'underline', textAlign:'center'}}>Life Goals</h3>
                     <p>
-                        Currently, I live on the South Coast of Durban, South Africa, in a rather remote town. Short term goals are to move back to Cape Town where fiber is widely available, as well as being close to work opportunities.
+                        I live in my hometown of Cape Town, South Africa, on the West Coast with my husband. Short term goals include being able to get stabalised and work towards financial stability.
                         {<br />}
                         {<br />}
                         In the long term, I am open to relocation outside of South Africa and would welcome the opportunity to immigrate.
