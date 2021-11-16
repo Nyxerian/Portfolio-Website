@@ -16,7 +16,7 @@ export default function Contact() {
                     <h3 className='ContactGlow'>Contact Me:</h3>
                     
                     <p class="ContactDetails">
-                        Durban, South Africa (+2 GMT) <br />
+                        Cape Town, South Africa (+2 GMT) <br />
                         <p> Contact Number: (+27) 078 871 4075</p>
                         <a href="mailto:DanielleNyxDaSilva@gmail.com">DanielleNyxDaSilva@gmail.com</a>
                         <br />
