@@ -37,12 +37,12 @@ h2 {
   position: relative;
 }
 
- /*To Do List Project*/
+ /*GuessingGame Project*/
 
 /* Card Images */
 
-.card-top.ToDo {
-  background-image: url("https://image.ibb.co/dHwQvv/creating.jpg");
+.card-top.GuessingGame {
+  background-image: url("https://images.unsplash.com/photo-1484069560501-87d72b0c3669?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
 }
 
 .blur {
@@ -77,7 +77,7 @@ h2 {
   border-bottom-left-radius: 0.5em;
 }
 
-.card-top span.project-type.ToDo {
+.card-top span.project-type.GuessingGame {
   background-color: #2ca58d;
 }
 
@@ -99,9 +99,9 @@ h2 {
   position: relative;
 }
 
-.progress.ToDo {
+.progress.GuessingGame {
   background-color: #2ca58d;
-  width: 0%;
+  width: 100%;
 }
 
 .progress.create {
