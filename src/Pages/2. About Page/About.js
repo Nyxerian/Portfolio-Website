@@ -17,18 +17,24 @@ export default function About() {
                     <br />
                     <h3 style={{textDecoration:'underline'}}>Career Goals</h3>
                     <p>
-                        I currently work mostly with ReactJS and Angular though I am well versed in HTML, CSS/SCSS and JavaScript. I learn as much as I can about ReactJS and how I can improve. I love to fiddle around and see what works and what doesn't.
+                        I currently work mostly with ReactJS and Angular though I am well versed in HTML, CSS/SCSS and JavaScript and beginning
+                        explore Python. 
+                        I learn as much as I can about ReactJS and how I can improve. I love to fiddle around and see what works 
+                        and what doesn't.
                         {<br />}
                         {<br />}
-                        In the future, I would like to continue learning React.js and also branch into React Native or another mobile app development tool. Other languages that I am interested in learning are: Python, C#, and C++ for use in game development.
+                        In the future, I would like to continue learning React.js and also branch into React Native or another 
+                        mobile app development tool. 
+                        Other languages that I am interested in learning are: Python, C#, and C++ for use in game development.
                     </p>
                                        
                     <h3 style={{textDecoration:'underline', textAlign:'center'}}>Life Goals</h3>
                     <p>
-                        I live in my hometown of Cape Town, South Africa, on the West Coast with my husband. Short term goals include being able to get stabalised and work towards financial stability.
+                        I live in my hometown of Cape Town, South Africa, on the West Coast with my husband. Short term goals include 
+                        being settled in a balanced home/work life routine and work towards financial stability.
                         {<br />}
                         {<br />}
-                        In the long term, I am open to relocation outside of South Africa and would welcome the opportunity to immigrate.
+                        Long term plans... well, we have a few ideas!
                     </p>
                     {<br />}                   
                     <h3 style={{textDecoration:'underline', textAlign:'right'}}>Outside of Work Interests</h3>
